@@ -6,10 +6,6 @@ This project simulates a real-world Security Operations Center (SOC) environment
 
 ---
 
-## 🧭 Architecture
-
-![SOC Architecture](screenshots/architecture.png)
-
 ## 🧱 Lab Setup
 
 * Kali Linux (Attacker) – 192.168.10.5
@@ -62,13 +58,31 @@ This project simulates a real-world Security Operations Center (SOC) environment
 
 ## 📸 Screenshots
 
-Screenshots include:
-- Wazuh server dashboard
-- Brute-force attack alerts
-- Failed login attempts
-- File integrity monitoring alerts
-  
-See `/screenshots`
+### 🧱 Network Architecture
+![Architecture](screenshots/architecture.png)
+
+---
+
+### 🔴 Brute Force Detection
+![Brute Force](screenshots/bruteforce.png)
+
+---
+
+### 🟡 File Integrity Monitoring (FIM)
+
+#### ➕ File Added
+![FIM Added](screenshots/fim-added.png)
+
+#### ✏️ File Modified
+![FIM Modified](screenshots/fim-modified.png)
+
+#### ❌ File Deleted
+![FIM Deleted](screenshots/fim-deleted.png)
+
+---
+
+### 🟢 Wazuh Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
