@@ -11,7 +11,6 @@ This project simulates a real-world Security Operations Center (SOC) environment
 * Kali Linux (Attacker) – 192.168.10.5
 * Windows 10 (Victim) – 192.168.10.10
 * Ubuntu Wazuh Server – 192.168.10.20
-* Metasploitable – 192.168.10.50
 
 ---
 
