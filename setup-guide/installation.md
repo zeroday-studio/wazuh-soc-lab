@@ -195,8 +195,8 @@ sudo /var/ossec/bin/manage_agents
 
 ### 🔄 Step 3.3: Restart Agent
 
-net stop wazuh
-net start wazuh
+- net stop wazuh
+- net start wazuh
 
 ---
 
@@ -259,7 +259,7 @@ C:\Program Files (x86)\ossec-agent\ossec.conf
 ---
 
 ### 🧾 Step 6.2
-
+- Add this line inside the <syscheck> 
 ```xml
 <syscheck>
   <!-- existing configuration -->
@@ -344,23 +344,6 @@ Save filters for quick threat hunting and analysis.
 * File integrity monitoring working
 * Alerts visible in dashboard
 * Threat hunting enabled
-
----
-
-## 👨‍💻 Author
-
-Rocky
-GitHub: https://github.com/zeroday-studio
-
----
-
-👉 Cybersecurity Enthusiast | SOC Analyst (Aspiring)
-
----
-
-## 📌 Project Summary
-
-This project demonstrates a complete SOC lab setup using Wazuh SIEM to detect brute-force attacks and monitor file integrity changes. It covers log analysis, threat detection, and real-time monitoring in a controlled environment.
 
 ---
 
