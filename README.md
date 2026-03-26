@@ -93,7 +93,7 @@ See `/setup-guide/installation.md`
 
 ## 📄 Report
 
-[View Full Report](report/soc-lab-report.pdf)
+[View Full Report](report/SOC_Final_Report.pdf)
 
 ---
 
