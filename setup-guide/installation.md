@@ -346,9 +346,3 @@ Save filters for quick threat hunting and analysis.
 * Threat hunting enabled
 
 ---
-
-## 🎯 MITRE ATT&CK Mapping
-
-* T1110 – Brute Force
-* T1565 – Data Manipulation (FIM)
-
