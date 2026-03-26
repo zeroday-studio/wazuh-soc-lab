@@ -336,7 +336,6 @@ net start wazuh
 
 Save filters for quick threat hunting and analysis.
 
----
 
 ## 🎯 Outcome
 
