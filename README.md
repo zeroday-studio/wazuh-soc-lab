@@ -106,4 +106,8 @@ See `/setup-guide/installation.md`
 
 ## 👨‍💻 Author
 
-Rakesh (zeroday-studio)
+👤 Rakesh A R  
+🛡️ Cybersecurity & SOC Analyst (Aspirant)  
+🔗 GitHub: github.com/zeroday-studio/wazuh-soc-lab  
+💼 LinkedIn: linkedin.com/in/rakesh-a-r-595517288
+✉️ Email: rakesharofficial06@gmail.com
