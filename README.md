@@ -87,7 +87,7 @@ This project simulates a real-world Security Operations Center (SOC) environment
 
 ## 🛠️ Installation Guide
 
-See `/setup-guide/installation.md`
+[Installation Guide](./setup-guide/installation.md)
 
 ---
 
